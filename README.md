@@ -1,3 +1,19 @@
+Projet:
+
+ filtre qui utilise le live feed video de camo studio pour appliquer le filtre. Je veux que la personne dans le live feed soit le sexe voulu parametrer et que cela puisse etre enregistrer en fichier ou diffuser en live feed. Je veux pouvoir integrer le filtre du live feed sur des applications externes comme Snapchat,Facetime.
+ 
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <table align="center" border="0">
 
 <tr><td colspan=2 align="center">
